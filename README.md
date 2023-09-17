@@ -1,2 +1,2 @@
-# fingerprintScanner
-Python program to scan finger print of user for authentication and authorization
+# FaceScanner
+Python program to scan face print of user for authentication and authorization
